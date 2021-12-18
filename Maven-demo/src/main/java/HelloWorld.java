@@ -6,5 +6,6 @@ public class HelloWorld {
 		System.out.println("master test04");
 		System.out.println("hot-fix test04");
 		System.out.println("push commit");
+		System.out.println("手动修改");
 	}
 }
